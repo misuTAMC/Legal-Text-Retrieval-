@@ -90,9 +90,7 @@ Doc-term matrix:
 Dùng công thức:
 
 ```latex
-$$
-\text{cosine\_similarity}(\mathbf{A}, \mathbf{B}) = \frac{\mathbf{A} \cdot \mathbf{B}}{\|\mathbf{A}\| \cdot \|\mathbf{B}\|} = \frac{\sum_{i=1}^n A_i B_i}{\sqrt{\sum_{i=1}^n A_i^2} \cdot \sqrt{\sum_{i=1}^n B_i^2}}
-$$
+ cosine_similarity(A, B) = (A · B) / (||A|| * ||B||)
 ```
 
 > Trong đó:
