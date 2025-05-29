@@ -110,9 +110,7 @@ Dùng công thức:
 ---
 
 ## ✅ Kết luận
-
-Dự án này là một baseline đơn giản cho hệ thống **Legal Text Retrieval**.
-Nó có thể được mở rộng bằng các kỹ thuật nâng cao như:
+ta có thể thêm option phía dưới hmm,chắc để sau này sửa lại :>>
 
 * TF-IDF Vectorizer
 * Embedding (Word2Vec, BERT)
@@ -127,5 +125,3 @@ Dataset gốc:
 👉 [https://www.kaggle.com/datasets/hariwh0/zaloai2021-legal-text-retrieval](https://www.kaggle.com/datasets/hariwh0/zaloai2021-legal-text-retrieval)
 
 ```
-
----
